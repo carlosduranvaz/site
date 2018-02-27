@@ -1,1 +1,1 @@
-<? var_dump($config) ?>
+<?php echo $page->title; ?>
