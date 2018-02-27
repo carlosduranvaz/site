@@ -1,0 +1,2 @@
+2018-02-27 15:25:20	guest	http://localhost/processwire/processwire/login/	Error: Failed login for 'admin' - Invalid password
+2018-02-27 15:25:35	admin	http://localhost/processwire/processwire/login/	Successful login for 'admin'
