@@ -1,0 +1,1 @@
+2018-02-27 17:14:52	admin	http://localhost/processwire/	Compiled file: /site/templates/home.php
